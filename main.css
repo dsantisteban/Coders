@@ -1,0 +1,41 @@
+hr{
+
+	background: #000000;
+	size: 4;
+	width: 70px;
+	height: 3px;
+	margin-left: 0px;
+	margin-bottom: 30px;
+}
+
+
+
+.Caja{
+
+	left: 240px;
+	top: 72px;
+	display:inline-block;
+	margin-right: 20px;
+	
+
+}
+
+.Container{
+	width: 1048px;	
+	height: 1000px;
+	padding: 40px 300px;
+
+
+}
+
+.Adentro{
+
+	
+	color: white;
+	left: 80px;
+	bottom:25px;
+	position: relative;
+	
+
+}
+/* Inserta tu código aqui */
